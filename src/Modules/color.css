@@ -1,0 +1,26 @@
+.default { 
+    background-color: brown;
+    color: white;
+}
+
+.box1 {
+    background-color: rgb(255, 0, 98);
+    color: white;
+}
+.box2 {
+    background-color: rgb(25, 25, 190);
+    color: white;
+}
+.box3{
+    background-color: rgb(114, 40, 184);
+    color: white;
+}
+.box4{
+    background-color: rgb(238, 167, 62);
+    color: white;
+}
+.box5{
+    background-color: rgb(195, 243, 252);
+    color: white;
+}
+
